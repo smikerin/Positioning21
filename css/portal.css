@@ -1,10 +1,13 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Libre+Baskerville&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-image: url(https://media.istockphoto.com/vectors/greek-vector-seamless-pattern-tribal-black-and-white-floral-ancient-vector-id1171146227?k=20&m=1171146227&s=612x612&w=0&h=EBntt9drzdl00UbCJ0Qa5cYSR5hdXaAqTJYwXrsicx8=
+    );
+    font-family: 'Libre Baskerville', serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -15,6 +18,7 @@ html {
 }
 
 h1 {
+    font-family: 'Courgette', cursive;
     font-weight: normal;
     margin: auto;
     background: #fff;
@@ -37,13 +41,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:#D4B499;
     text-decoration: none;
 }
 
 a:hover {
-    color: whitesmoke;
-    background-color: darkcyan;
+    color: #F3D5C0;
+    background-color: #D4B499;
     text-decoration: none;
 }
 
