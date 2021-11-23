@@ -38,12 +38,12 @@ h2,h3 {
 }
 
 a {
-    color:#D4B499;
+    color:#733f15;
     text-decoration: none;
 }
 
 a:hover {
-    color: #F3D5C0;
+    color: #f27f2d;
     background-color: #D4B499;
     text-decoration: none;
 }
